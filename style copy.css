@@ -1,0 +1,431 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.backcolor {
+    background-color: #5F19A0;
+
+}
+
+.sarlavxa {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    color: #FFFFFF;
+
+}
+
+.sarlavxa1 {
+    display: flex;
+    gap: 36px;
+
+}
+
+.sarlavxa2 {
+    display: flex;
+    gap: 28px;
+}
+
+.sarlavxa3 {
+    display: flex;
+    gap: 48px;
+}
+
+.boshlash {
+    width: 1200px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 170px;
+}
+
+.boshlash1 {
+    display: flex;
+    align-items: center;
+    gap: 52px;
+}
+
+.boshlash3 {
+    display: flex;
+    background: linear-gradient(0deg, #C9B9FF -10.53%, #FFC2FF 112.28%);
+    border-radius: 30px;
+    padding: 19px 24px;
+    border: none;
+}
+
+.sentr {
+   margin-top: 10px;
+text-align: center;
+}
+
+.sentr1 {
+    width: 300px;
+}
+
+.sentr2 {
+    width: 400px;
+    margin-top: 67px;
+
+
+
+}
+
+.sentr3 {
+    background-color: #5F19A0;
+    color: #FFFFFF;
+    padding: 19px 54px;
+    border-radius: 70px;
+    border: none;
+    margin-top: 67px;
+
+}
+
+.tentr {
+    display: flex;
+    gap: 70px;
+    margin-top: 40px;
+}
+
+.rasmm {
+    display: flex;
+    width: 700px;
+    height: 550px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.sentr4 {
+    display: flex;
+
+
+}
+
+.kattasuz {
+
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 24.2px;
+}
+
+.katta_son {
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 62.93px;
+}
+
+.raqamlar {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 90px;
+    align-items: center;
+    text-align: center;
+    color: #5F19A0;
+}
+
+.raqamlilar {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.xammasi {
+    display: flex;
+    background-color: #333333;
+
+    justify-content: center;
+}
+
+.xammasigaa {
+
+    align-items: center;
+}
+
+.rasmlar1 {
+    background-color: #5F19A0;
+    width: 320px;
+    height: auto;
+    padding: 30px 0px 50px 40px;
+    margin: 20px;
+
+}
+
+.chiziq {
+    width: 110.03px;
+    height: 3px;
+    background-color: #33333333;
+    margin-top: 90px;
+}
+
+.rasm1 {
+    margin-bottom: 100px;
+}
+
+.suz {
+    width: 180px;
+    color: #FFFFFF;
+}
+
+.suzlar {
+    width: 242px;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+
+.suzlarr {
+    color: #C344EF;
+    margin-top: 50px;
+}
+
+.sentrr {
+    text-align: center;
+    margin-top: 100px;
+    color: #5F19A0;
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 600;
+    line-height: 62.93px;
+    text-underline-position: from-font;
+
+}
+
+
+
+.rassm {
+    padding: 35px;
+}
+
+.katta {
+    text-align: center;
+    color: #5F19A0;
+}
+
+.kichik {
+    text-align: center;
+    margin-top: 25px;
+    color: #333333;
+}
+
+.zara1 {
+    width: 200px;
+    border: 1px solid #000000;
+
+
+}
+
+.zara2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.istochnik {
+    background-image: url(./images/istockphoto-1188404617-1024x1024\ 1.png);
+    width: 100%;
+   height: 600px;
+    background-repeat: no-repeat;
+}
+
+.istochnik1 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 24.2px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.istochnik3 {
+    display: flex;
+    justify-content: center;
+
+    border-radius: 60px 0px 0px 0px;
+
+}
+
+.button1 {
+    background: linear-gradient(360deg, rgba(93, 27, 159, 0.7) 0%, rgba(93, 27, 159, 0) 100%);
+    padding: 20px 100px;
+    border: 2px solid #FFFFFF;
+    border-radius: 60px;
+    color: #FFFFFF;
+}
+
+.istochnik4 {
+    text-align: center;
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.istochnik5 {
+    margin-top: 100px;
+}
+
+.urtada {
+    text-align: center;
+    color: #5F19A0;
+    font-family: Inter;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 62.93px;
+}
+
+.malumot2 {
+    color: #5F19A0;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.2px;
+    background-color: #FFFFFF;
+    width: 285px;
+}
+
+.malumot3 {
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19.36px;
+    background-color: #FFFFFF;
+    width: 285px;
+
+}
+
+.malumot1 {
+    background: linear-gradient(0deg, #C9B9FF 0%, #FFC2FF 99.14%);
+    padding-top: 230px;
+    padding-bottom: 170px;
+
+}
+
+.malumot {
+    width: 285px;
+    height: 285px;
+}
+
+.xammamiz {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin-top: 40px;
+}
+
+.urtada1 {
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 62.93px;
+    width: 452px;
+    height: 63px;
+    margin-top: 43px;
+    margin-left: 100px;
+}
+
+.markaz {
+    color: #5F19A0;
+    text-wrap: nowrap;
+    text-align: left;
+}
+
+.markaz1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    border-top: 1px solid #33333333;
+    width: 800px;
+    padding-top: 30px;
+}
+
+
+.uragan {
+    margin: 0px auto;
+    width: 900px;
+    border-bottom: 1px solid #33333333;
+}
+
+.suz5 {
+    font-family: Inter;
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 62.93px;
+    color: #000000;
+    text-align: center;
+
+    margin-bottom: 50px;
+}
+
+.xammasiga {
+    background: linear-gradient(360deg, #C9B9FF 0%, #FFC2FF 100%);
+    height: auto;
+    padding-top: 30px;
+    margin-top: 40PX;
+    padding-bottom: 90px;
+
+}
+
+.ramka1 {
+
+    width: 410px;
+    height: 170px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+}
+
+.ramka {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    width: 1250px;
+}
+
+.oxiri {
+    display: flex;
+    background-color: #333333;
+    width: auto;
+    height: 300px;
+    align-items: center;
+    gap: 80px;
+}
+
+.pautin {
+    margin-left: 100px;
+}
+
+.pautin1 {
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 24.2px;
+}
+
+.pautin2 {
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 24.2px;
+}
