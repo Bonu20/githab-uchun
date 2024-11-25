@@ -1,0 +1,288 @@
+.birinchi {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    margin-left: 14px;
+}
+
+.suz {
+    color: #FFFFFF;
+}
+
+.suz1 {
+    color: #39965F;
+}
+
+.birinchi1 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: #FFFFFF;
+    justify-content: space-between;
+}
+
+.birinchi2 {
+    display: flex;
+    flex-wrap: wrap0;
+    gap: 24px;
+    margin-right: 60px;
+    align-items: center;
+}
+
+.ramka {
+    width: 25%;
+    background-color: black;
+    border: 2px solid black;
+}
+
+.urinli {
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.suzlar {
+    width: 74%;
+    color: #FFFFFF;
+    background-image: url(./image/image.png);
+    height: auto;
+    border: 2px solid black;
+}
+
+.malumot {
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.malumot1 {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    text-wrap: nowrap;
+
+}
+
+.malumot2 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+
+}
+
+.ism {
+    color: #FFFFFF;
+
+}
+
+.malumot3 {
+    padding: 6px 8px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    background-color: #FFFFFF1A;
+    margin: 0px;
+}
+
+.email {
+
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.githab {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.telegram {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.nomer {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.githabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.telegrams {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+    margin: 3px;
+}
+
+.nomers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.buttonn {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.salomlashish {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.malumot4 {
+    width: 633px;
+    height: 265px;
+
+
+}
+
+.buttonnn {
+    background-color: #39965F;
+}
+
+.malumot4 {
+    margin-left: 20px;
+
+}
+
+.uskunalar {
+    color: #FFFFFF;
+    margin-left: 20px;
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    text-wrap: nowrap;
+}
+
+.figmalar {
+    padding: 30px 75px;
+    background-color: #1B1B1B;
+    margin-left: 20px;
+}
+
+.gigmalar {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.ishlarim {
+    color: #FFFFFF;
+    margin-left: 20px;
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    text-wrap: nowrap;
+    margin-top: 100px;
+}
+
+.tezkorlik {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.figmalarim {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #1B1B1B;
+    gap: 15px;
+}
+
+.gigmalarim {
+    display: flex;
+    margin: 20px;
+    gap: 15px;
+
+}
+
+.tezlik p {
+    width: 320px;
+}
+
+.mijoz {
+    color: #FFFFFF;
+    margin-left: 20px;
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    text-wrap: nowrap;
+    margin-top: 100px;
+}
+.aloxidaaa{
+   display: flex;
+   flex-wrap: wrap; 
+}
+
+.aloxida {
+    display: flex;
+    align-items: center;
+    padding: 29px 49px;
+    background-color: #1B1B1B;
+    gap: 15px;
+    width: 100px;
+    margin-left: 15px;
+}
+.aloxidaa{
+    display: flex;
+    align-items: center;
+    padding: 29px  49px;
+    background-color: #1B1B1B;
+    gap: 15px;
+    width: 100px;
+    margin-left: 15px;
+}
+
+.aloxida1{
+    display: flex;
+    align-items: center;
+    padding: 29px  49px;
+    background-color: #1B1B1B;
+    gap: 15px;
+    width: 100px;
+    margin-left: 15px;
+
+}
+.aloxida2{
+    display: flex;
+    align-items: center;
+    padding: 29px  49px;
+    background-color: #1B1B1B;
+    gap: 15px;
+    width: 100px;
+    margin-left: 15px;
+}

@@ -1,0 +1,294 @@
+.birinchi {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    margin-left: 14px;
+}
+
+.suz {
+    color: #FFFFFF;
+}
+
+.suz1 {
+    color: #39965F;
+}
+
+.birinchi1 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: #FFFFFF;
+    justify-content: space-between;
+}
+
+.birinchi2 {
+    display: flex;
+    flex-wrap: wrap0;
+    gap: 24px;
+    margin-right: 60px;
+    align-items: center;
+}
+
+.ramka {
+    width: 25%;
+    background-color: black;
+    border: 2px solid black;
+}
+
+.urinli {
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.suzlar {
+    width: 74%;
+    color: #FFFFFF;
+    background-image: url(../image/image.png);
+    height: 1200px;
+    border: 2px solid black;
+}
+
+.malumot {
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.malumot1 {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    text-wrap: nowrap;
+
+}
+
+.malumot2 {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+
+}
+
+.ism {
+    color: #FFFFFF;
+
+}
+
+.malumot3 {
+    padding: 6px 8px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    background-color: #FFFFFF1A;
+    margin: 0px;
+}
+
+.email {
+
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.githab {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.telegram {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.nomer {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFFB2;
+}
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.buttonnnn {
+    border-bottom: 8px solid #39965F;
+    width: 112px;
+    margin-left: 10px;
+}
+
+.ramkaa {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ramka1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: #1B1B1B;
+
+
+}
+
+.ramka2 {
+    padding: 10px 24px;
+    background-color: #1B1B1B;
+    color: #FFFFFF;
+}
+
+.ramka2 {
+
+    padding: 10px 24px;
+    background-color: #1B1B1B;
+    color: #FFFFFF;
+}
+
+.ramka3 {
+    padding: 10px 24px;
+    background-color: #1B1B1B;
+    color: #FFFFFF;
+
+}
+
+.ramka4 {
+    padding: 10px 24px;
+    background-color: #1B1B1B;
+    color: #FFFFFF;
+
+}
+
+.rasmlar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 24px;
+    margin-left: 20px;
+}
+
+.rasmlar1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+.nom {
+    display: flex;
+    flex-wrap: wrap;
+    color: #39965F;
+    gap: 10px;
+
+}
+
+.rasm5 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 120px;
+    margin-left: 20px;
+
+}
+
+.xammasi {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nomlar {
+    display: flex;
+    flex-wrap: wrap;
+    color: #39965F;
+    gap: 15px;
+
+}
+
+.loyiha1 {
+    width: 460px;
+}
+
+.xammamiz {
+    display: flex;
+    flex-wrap: ;
+    background-color: #1B1B1B;
+    width: 912px;
+    height: 208px;
+    gap: 32px;
+    border-radius: 12px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    margin-left: 30px;
+
+}
+
+.xammamiz1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    width: 168px;
+    height: 168px;
+    margin-top: 25px;
+
+}
+
+.xammamiz2 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #39965F;
+    padding: 8px 24px;
+    radius: 8px;
+
+}
+
+.xammamiz3 {
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.xammamiz4 {
+    margin-left: 20px;
+    width: 406px;
+    height: 160px;
+    top: 24px;
+    left: 208px;
+    gap: 12px;
+
+
+}
+
+.xammamiz5 {
+    width: 150px;
+    height: 130px;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 150px;
+
+
+}
+
+.xammamizz {
+    color: #FFFFFFB2;
+    width: 300px;
+    height: 54px;
+
+}
